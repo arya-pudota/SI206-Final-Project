@@ -22,8 +22,8 @@ def create_viz_1():
 	for i in range(15):
 		x_axis.append(data[i][0])
 		y_axis.append(data[i][1])
-		file1.write(str(data[i][0]) + "\t" + str(data[i][1]) + "\n")
-    file1.close()
+		file1.write(data[i][0] + "\t" + str(data[i][1]) + '\n')
+	file1.close()
 	f1 = plt.figure()
 	plt.bar(x_axis, y_axis)
 	plt.title('Team vs. Total Popularity')

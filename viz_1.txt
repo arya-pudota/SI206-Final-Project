@@ -1,0 +1,15 @@
+LSU	1500
+Oregon	1500
+Utah	1500
+Auburn	1500
+Wisconsin	1500
+Iowa	1500
+Baylor	900
+Cincinnati	900
+SMU	800
+Minnesota	792
+Texas	754
+Alabama	745
+Memphis	700
+Florida	665
+Michigan	638
